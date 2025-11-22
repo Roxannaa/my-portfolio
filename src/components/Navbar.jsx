@@ -26,7 +26,7 @@ export const Navbar = () => {
                     <a href="#projects">Projects</a>
                 </motion.li>
                 <motion.li variants={fadeInUp}>
-                    <a href="">Contacts</a>
+                    <a href="https://www.linkedin.com/in/roxanna-alburquerque-softwaredev/" target="_blank">Let's Connect</a>
                 </motion.li>
             </motion.ul>
         </motion.nav> 

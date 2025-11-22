@@ -33,7 +33,7 @@ export const Hero = () => {
                             <motion.a href="#projects" className="cta-primary" whileHover={{scale: 1.05}} whileTap={{scale: 1.05}}>
                                 My Work
                             </motion.a>
-                            <motion.a href="#contacts" className="cta-secondary" whileHover={{scale: 1.05}} whileTap={{scale: 1.05}}>
+                            <motion.a href="https://www.linkedin.com/in/roxanna-alburquerque-softwaredev/" target="_blank" className="cta-secondary" whileHover={{scale: 1.05}} whileTap={{scale: 1.05}}>
                                     Contact Me
                                 </motion.a>
                         </motion.div>
