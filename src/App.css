@@ -303,6 +303,10 @@ body {
   .hero h1 { 
     font-size: 2.2rem;
   }
+
+  .hero-image-container {
+    display: none;
+  }
 }
 
 /* Projects Section */
